@@ -39,7 +39,7 @@
     "package.json"
   ],
   "dependencies": {
-    "firebase": "^7.13.2",
+    "firebase": "^10.12.5",
     "jsdom": "^16.2.2"
   },
   "devDependencies": {
@@ -55,9 +55,9 @@
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-uglify-es": "github:gruntjs/grunt-contrib-uglify#harmony",
     "grunt-contrib-watch": "^1.1.0",
-    "grunt-karma": "^3.0.2",
+    "grunt-karma": "^4.0.2",
     "jasmine-core": "^3.5.0",
-    "karma": "^4.4.1",
+    "karma": "^6.3.16",
     "karma-chrome-launcher": "^3.1.0",
     "karma-coverage": "^2.0.1",
     "karma-failed-reporter": "0.0.3",
